@@ -1,4 +1,4 @@
-# Real-Time Sign Language Detection with Tensorflow Object Detection API 2.x
+# Real-Time Sign Language Detection
 
 ## Attribution
 
