@@ -1,22 +1,5 @@
 # Real-Time Sign Language Detection with Tensorflow Object Detection API 2.x
 
-The project in this repo was completely inspired by [Nicholas Renotte](https://github.com/nicknochnack) and his wonderful YouTube Video [Real Time Sign Language Detection with Tensorflow Object Detection and Python | Deep Learning SSD](https://youtu.be/pDXdlXlaCco) tutorial.
-
-![SLD](./media/sign-language-detection.gif)
-
-<b>Test Images</b>
-
-![hello](./media/hello-test.gif)
-
-![iloveyou](./media/iloveyou-test.gif)
-
-![no](./media/no-test.gif)
-
-![ty](./media/thank-you-test.gif)
-
-![yes](./media/yes-test.gif)
-
-
 ## Attribution
 
 This repo is a collection of knowledge gained from others who so generously put together github repos and YouTube videos.  To you I say 'Thank you!'
